@@ -89,7 +89,7 @@ L'étape suivante de la validation est la confirmation des performances et de la
 +-----------------+---------+-----+--------+-------+-----+
 ```
 
-## RTL Interface
+## 🧩 RTL Interface
 
 ```bash
 ================================================================
@@ -109,4 +109,4 @@ L'étape suivante de la validation est la confirmation des performances et de la
 |a          |   in|   32|     ap_none|             a|        scalar|
 |b          |   in|   32|     ap_none|             b|        scalar|
 +-----------+-----+-----+------------+--------------+--------------+
-```bash
+```
