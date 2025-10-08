@@ -1,4 +1,4 @@
-# 💡 Synthèse HLS d'un Additionneur Flottant IEEE 754 (Simple Précision) à partir d'une description C++
+# 💡 Synthèse HLS d'un Additionneur Flottant IEEE 754
 
 ## 🎯 Aperçu du Projet
 
